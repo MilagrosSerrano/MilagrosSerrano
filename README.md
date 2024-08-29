@@ -13,5 +13,5 @@
 <img align="left" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
           
-          
- 
+### GitHub Stats          
+[![Milagros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilagrosSerrano)](https://github.com/anuraghazra/github-readme-stats)
