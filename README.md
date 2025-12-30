@@ -14,5 +14,3 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" /></br>
           
-### GitHub Stats          
-![Milagros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilagrosSerrano&theme=tokyonight&show_icons=true)
