@@ -1,6 +1,6 @@
 ## Hola! Soy Milagros 👋🏼
 
-👩🏽‍💻 Tengo 22 años, me apasiona la tecnología y estoy en el camino de aprendizaje de la programación Full-Stack. Estoy abierta a desafíos y en búsqueda de un trabajo que me permita crecer en este campo.
+👩🏽‍💻 Tengo 24 años, me apasiona la tecnología y estoy en el camino de aprendizaje de la programación Full-Stack. Estoy abierta a desafíos y en búsqueda de un trabajo que me permita crecer en este campo.
 
 
 ### Tech Stach
